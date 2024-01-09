@@ -8,6 +8,9 @@ Discord DM bot spam.
 Use this at the risk of your own. We will not share our files but here is a script that can do the same. But takes longer.
 [The Code](https://github.com/v3lvics/dm-spam-discord/commit/372d79c8021b0246f62cd5f817a162e9695a6410)
 
+***Video: STREAMABLE***
+https://streamable.com/d9xuiz
+
 # If you like this project please leave a ⭐ to support us!
 > If you have any questions please comment.
 
